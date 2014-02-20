@@ -1,0 +1,18 @@
+{
+  "name": "pazguille-editable",
+  "description": "Simple and tiny Edit in place component",
+  "version": "0.1.0",
+  "keywords": [
+    "edit",
+    "in place",
+    "editor",
+    "contentEditable"
+  ],
+  "styles": [
+    "editable.css"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
